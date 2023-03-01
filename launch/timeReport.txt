@@ -1,0 +1,3 @@
+Total elapsed time:37.824379205703735
+Package is succesfully delivered
+With total lateness of -241.93991827964783
